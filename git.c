@@ -5,3 +5,4 @@ empat
 lima
 sembilan
 sepuluh
+sebelas
